@@ -1,0 +1,10 @@
+version: "2"
+services: 
+  casino:
+    build: ./casino/server/ 
+    ports: 
+      - "1337:1337"
+    container_name: casino
+    mem_limit: 200m 
+    restart: always 
+

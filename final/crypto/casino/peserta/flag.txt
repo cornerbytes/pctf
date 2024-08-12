@@ -1,0 +1,2 @@
+PCTF{FAKEFLAG}
+In order to get a real flag, you need to submit your lucky number to the netcat service.
