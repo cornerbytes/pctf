@@ -6,6 +6,7 @@ FORMAT FLAG : PCTF{}
 |--         |--     |--     |
 |casino     |crypto |`1337` |
 |adminadmin |web    |`8888` |
+|feedback   |pwn    |`1337` |
 
 ## Hackerclass challange services
 
