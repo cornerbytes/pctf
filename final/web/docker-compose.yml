@@ -1,0 +1,10 @@
+version: "2"
+services: 
+  adminadmin:
+    build: ./adminadmin/server/
+    ports: 
+      - "8888:8888"
+    container_name: adminadmin
+    mem_limit: 200m 
+    restart: always 
+
