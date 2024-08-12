@@ -1,0 +1,10 @@
+version: '3.7'
+services:
+  web:
+    build: ./base64pewpew/server/
+    ports:
+      - "9999:80"
+    volumes:
+      - ./base64pewpew/server/src:/var/www/html
+      - ./base64pewpew/server/nginx.conf:/etc/nginx/nginx.conf
+    container_name: base64pewpew
