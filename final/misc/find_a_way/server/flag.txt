@@ -1,0 +1,1 @@
+PCTF{privilege_read_fiel_with_sudo_1337!}

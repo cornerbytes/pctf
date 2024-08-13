@@ -1,0 +1,9 @@
+version: "2"
+services: 
+  find_a_way:
+    build: ./find_a_way/server/
+    ports: 
+      - "4444:22"
+    container_name: find_a_way
+    mem_limit: 200m 
+    restart: always 

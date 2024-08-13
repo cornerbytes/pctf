@@ -1,0 +1,7 @@
+IP = (ipserver)
+port = 4444
+user = test 
+
+# notes
+pliss jangan baca flag.txt!!! kecuali... jika kamu bisa membacanya....
+aku dengar command "superuser do" sangat powerfull!!!!!!.
