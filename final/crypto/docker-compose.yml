@@ -7,4 +7,12 @@ services:
     container_name: casino
     mem_limit: 200m 
     restart: always 
+  easy_casino:
+    build: ./easy_casino/server/ 
+    ports: 
+      - "7337:1337"
+    container_name: easy_casino
+    mem_limit: 200m 
+    restart: always 
+
 

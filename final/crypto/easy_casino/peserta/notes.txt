@@ -1,0 +1,1 @@
+hint: int('ad ', 16) == int('ad', 16)
