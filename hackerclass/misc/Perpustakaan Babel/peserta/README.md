@@ -1,0 +1,4 @@
+# Perpustakaan Babel
+
+## Description
+><p>Perpustakaan Babel adalah sebuah konsep yang muncul dari cerita pendek berjudul “The Library of Babel” yang ditulis oleh Jorge Luis Borges. Cerita ini pertama kali diterbitkan pada tahun 1941 dalam kumpulan cerita yang berjudul El Jardín de senderos que se bifurcan (The Garden of Forking Paths).</p><p>Dalam cerita ini, Borges menggambarkan sebuah perpustakaan yang sangat besar dan hampir tak terhingga. Perpustakaan ini terdiri dari banyak sekali ruang berbentuk heksagonal yang berisi rak-rak buku yang tak terhingga banyaknya. Setiap buku di perpustakaan ini adalah susunan acak huruf dan kata-kata, dan hanya sebagian kecil dari buku-buku tersebut yang mungkin memiliki makna atau informasi yang bisa dimengerti.</p><p>Masa depan author tertulis di dalam Perpustakaan ini!</p>
