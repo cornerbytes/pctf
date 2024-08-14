@@ -6,6 +6,7 @@ FORMAT FLAG : PCTF{}
 |--         |--     |--     |
 |casino     |crypto |`1337` |
 |adminadmin |web    |`8888` |
+|teks keren |web    |`1080` |
 |feedback   |pwn    |`1337` |
 |ret2win    |pwn    |`1337` |
 |ret2winwin |pwn    |`1337` |

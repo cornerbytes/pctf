@@ -5,6 +5,14 @@ services:
     ports: 
       - "8888:8888"
     container_name: adminadmin
-    mem_limit: 200m 
-    restart: always 
+    mem_limit: 200m
+    restart: always
+
+  teks-keren:
+    build: "./teks keren/server/"
+    ports: 
+      - "8889:1080"
+    container_name: teks-keren
+    mem_limit: 200m
+    restart: always
 
