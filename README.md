@@ -10,6 +10,7 @@ FORMAT FLAG : PCTF{}
 |ret2win    |pwn    |`1337` |
 |ret2winwin |pwn    |`1337` |
 |find_a_way |misc   |`4444` |
+|qr?        |misc   |`6996` |
 
 
 ## Hackerclass challange services
