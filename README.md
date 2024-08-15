@@ -8,12 +8,12 @@ FORMAT FLAG : PCTF{}
 |easy_casino|crypto |`7337` |
 |akar_rsa   |crypto |`7338` |
 |adminadmin |web    |`8888` |
-|teks keren |web    |`1080` |
-|feedback   |pwn    |`1337` |
-|ret2win    |pwn    |`1337` |
-|ret2winwin |pwn    |`1337` |
+|teks keren |web    |`8889` |
+|feedback   |pwn    |`5555` |
+|ret2win    |pwn    |`5556` |
+|ret2winwin |pwn    |`5557` |
 |find_a_way |misc   |`4444` |
-|qr?        |misc   |`6996` |
+|qr?        |misc   |`4445` |
 
 
 ## Hackerclass challange services

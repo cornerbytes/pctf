@@ -1,0 +1,23 @@
+version: "2"
+services: 
+  feedback:
+    build: ./feedback/server/ 
+    ports: 
+      - "5555:1337"
+    container_name: feedback
+    mem_limit: 200m 
+    restart: always 
+  ret2win:
+    build: ./ret2win/server/ 
+    ports: 
+      - "5556:1337"
+    container_name: ret2win
+    mem_limit: 200m 
+    restart: always 
+  ret2winwin:
+    build: ./ret2winwin/server/ 
+    ports: 
+      - "5557:1337"
+    container_name: ret2winwin
+    mem_limit: 200m 
+    restart: always 
