@@ -5,6 +5,8 @@ FORMAT FLAG : PCTF{}
 |chall_name |type   |Port   |
 |--         |--     |--     |
 |casino     |crypto |`1337` |
+|easy_casino|crypto |`7337` |
+|akar_rsa   |crypto |`7338` |
 |adminadmin |web    |`8888` |
 |teks keren |web    |`1080` |
 |feedback   |pwn    |`1337` |
@@ -12,7 +14,6 @@ FORMAT FLAG : PCTF{}
 |ret2winwin |pwn    |`1337` |
 |find_a_way |misc   |`4444` |
 |qr?        |misc   |`6996` |
-|easy_casino|crypto |`7337` |
 
 
 ## Hackerclass challange services

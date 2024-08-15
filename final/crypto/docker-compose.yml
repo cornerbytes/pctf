@@ -14,5 +14,12 @@ services:
     container_name: easy_casino
     mem_limit: 200m 
     restart: always 
+  akar_rsa:
+    build: ./akar_rsa/server/ 
+    ports: 
+      - "7338:7489"
+    container_name: akar_rasa
+    mem_limit: 200m 
+    restart: always 
 
 
