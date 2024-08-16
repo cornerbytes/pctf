@@ -18,7 +18,7 @@ FORMAT FLAG : PCTF{}
 
 ## Hackerclass challange services
 
-|chall_name     |type   |Port   |
-|--             |--     |--     |
-|base64pewpew   |web    |`9999` |
-
+|chall_name          |type   |Port   |
+|--                  |--     |--     |
+|base64pewpew        |web    |`9999` |
+|buffer overflow     |pwn    |`11233`|
