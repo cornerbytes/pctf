@@ -14,6 +14,7 @@ FORMAT FLAG : PCTF{}
 |ret2winwin |pwn    |`5557` |
 |find_a_way |misc   |`4444` |
 |qr?        |misc   |`4445` |
+|sqli2      |web    |`3333` |
 
 
 ## Hackerclass challange services
