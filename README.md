@@ -22,3 +22,5 @@ FORMAT FLAG : PCTF{}
 |--                  |--     |--     |
 |base64pewpew        |web    |`9999` |
 |buffer overflow     |pwn    |`11233`|
+|sqli1               |web    |`2222` |
+
