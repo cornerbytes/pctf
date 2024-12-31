@@ -1,0 +1,11 @@
+version: "2"
+services: 
+  chall_pengumuman:
+    build: ./chall_pengumuman/server/
+    ports: 
+      - "7777:80"
+    restart: always
+    volumes:
+      - ./chall_pengumuman/server/src:/var/www/html
+      - ./chall_pengumuman/server/nginx.conf:/etc/nginx/nginx.conf 
+    container_name: chall_pengumuman
